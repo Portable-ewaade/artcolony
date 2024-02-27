@@ -1,0 +1,19 @@
+.form input{
+ width: 45.3rem !important;
+ height: 5vh !important;
+ margin: 5px 0 12px;
+ padding: 7px;
+}
+
+.form input::placeholder{
+ font-size: 12px;
+ letter-spacing: 1px;
+}
+.form textarea{
+ margin-bottom: 12px;
+ padding: 7px;
+}
+.form label{
+font-size: 14px;
+font-weight: 600;
+}
